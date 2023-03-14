@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 # script.sh is the name of the file containing the script
 COPY script.sh .
-
+RUN chmod +x hello.sh
 RUN apt-get update
 RUN apt-get -y install curl
 

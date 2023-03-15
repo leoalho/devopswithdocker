@@ -1,0 +1,2 @@
+Build: docker build . -t example-backend
+Run: docker run -it -p 8080:8080 example-backend

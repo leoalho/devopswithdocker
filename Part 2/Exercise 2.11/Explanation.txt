@@ -1,0 +1,1 @@
+I created a docker-compose file for a backend in a personal NodeJS project. It has both redis and mongodb contianerized.

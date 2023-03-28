@@ -1,0 +1,1 @@
+The backend dockerfile consisted of only one RUN command, so no changes were made with that one. In the frontedn Dockerfile all run commands were merged into one, this did not change the conainer sze a lot (1.26 GB in both cases)
